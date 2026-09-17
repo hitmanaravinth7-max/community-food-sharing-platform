@@ -1,5 +1,5 @@
 {
-  "name": "Food Share",
+  "name": "Community Food Sharing Platform",
   "description": "Community Food Sharing Platform connecting surplus food donors with receivers and shelters to reduce food wastage.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]

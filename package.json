@@ -1,0 +1,19 @@
+{
+  "name": "community-food-sharing-platform",
+  "version": "1.0.0",
+  "description": "Community Food Sharing Platform connecting surplus food donors with receivers and shelters to reduce food wastage.",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "food-sharing",
+    "zero-waste",
+    "community",
+    "donation",
+    "android",
+    "web"
+  ],
+  "license": "Apache-2.0"
+}

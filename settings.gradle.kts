@@ -22,6 +22,6 @@ dependencyResolutionManagement {
   }
 }
 
-rootProject.name = "Food Share"
+rootProject.name = "Community Food Sharing Platform"
 
 include(":app")
